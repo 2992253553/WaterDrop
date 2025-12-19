@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: '/logo.svg',
 
-  repo: 'dunwu/waterdrop',
+  repo: '2992253553/waterdrop',
 
   docsDir: 'docs',
 
