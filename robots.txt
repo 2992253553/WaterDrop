@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://dunwu.github.io/waterdrop/waterdrop/sitemap.xml
+Sitemap: https://2992253553.github.io/waterdrop/waterdrop/sitemap.xml
