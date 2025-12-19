@@ -3,11 +3,11 @@ import navbar from './navbar.js'
 import sidebar from './sidebar.js'
 
 export default hopeTheme({
-  hostname: 'https://2992253553.github.io/waterdrop',
+  hostname: 'https://2992253553.github.io/WaterDrop',
 
   author: {
     name: '钝悟',
-    url: 'https://2992253553.github.io/waterdrop'
+    url: 'https://2992253553.github.io/WaterDrop'
   },
 
   iconAssets: 'iconify',
@@ -33,17 +33,17 @@ export default hopeTheme({
     intro: '/intro.html',
     medias: {
       // Baidu: "https://example.com",
-      // BiliBili: "https://example.com",
+       BiliBili: "https://b23.tv/gUw8UKs",
       // Bitbucket: "https://example.com",
       // Dingding: "https://example.com",
       // Discord: "https://example.com",
       // Dribbble: "https://example.com",
-      Email: 'mailto:info@example.com',
+      Email: '2992253553@qq.com',
       // Evernote: "https://example.com",
       // Facebook: "https://example.com",
       // Flipboard: "https://example.com",
       // Gitee: "https://example.com",
-      GitHub: 'https://github.com/dunwu'
+      GitHub: 'https://github.com/2992253553'
       // Gitlab: "https://example.com",
       // Gmail: "mailto:info@example.com",
       // Instagram: "https://example.com",
