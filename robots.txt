@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://2992253553.github.io/waterdrop/WaterDrop/sitemap.xml
+Sitemap: https://2992253553.github.io/WaterDrop/WaterDrop/sitemap.xml
