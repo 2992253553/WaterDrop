@@ -3,11 +3,11 @@ import navbar from './navbar.js'
 import sidebar from './sidebar.js'
 
 export default hopeTheme({
-  hostname: 'https://dunwu.github.io/waterdrop',
+  hostname: 'https://2992253553.github.io/waterdrop',
 
   author: {
     name: '钝悟',
-    url: 'https://dunwu.github.io/waterdrop'
+    url: 'https://2992253553.github.io/waterdrop'
   },
 
   iconAssets: 'iconify',
