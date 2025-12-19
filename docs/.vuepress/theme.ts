@@ -9,6 +9,8 @@ export default hopeTheme({
     name: '钝悟',
     url: 'https://2992253553.github.io/WaterDrop'
   },
+  
+  favicon: "/favicon.ico",
 
   iconAssets: 'iconify',
 
