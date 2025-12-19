@@ -12,7 +12,7 @@ projects:
   - icon: project
     name: dunwu.github.io
     desc: 个人的技术文档归档
-    link: https://github.com/dunwu/waterdrop
+    link: https://github.com/2992253553/WaterDrop
 
   - icon: link
     name: 链接名称
@@ -44,20 +44,20 @@ footer: CC-BY-SA-4.0 Licensed | Copyright © 2015-Now 钝悟
 
 <p align="center">
 
-  <a href="https://github.com/dunwu/waterdrop">
+  <a href="https://github.com/2992253553/WaterDrop">
       <img alt="star" class="no-zoom" src="https://img.shields.io/github/stars/dunwu/waterdrop?style=for-the-badge">
   </a>
 
-  <a href="https://github.com/dunwu/waterdrop">
-      <img alt="fork" class="no-zoom" src="https://img.shields.io/github/forks/dunwu/waterdrop?style=for-the-badge">
+  <a href="https://github.com/2992253553/WaterDrop">
+      <img alt="fork" class="no-zoom" src="https://img.shields.io/github/forks/2992253553/WaterDrop?style=for-the-badge">
   </a>
 
-  <a href="https://github.com/dunwu/waterdrop/commits/master">
-      <img alt="build" class="no-zoom" src="https://img.shields.io/github/actions/workflow/status/dunwu/waterdrop/deploy.yml?style=for-the-badge">
+  <a href="https://github.com/2992253553/WaterDrop/commits/master">
+      <img alt="build" class="no-zoom" src="https://img.shields.io/github/actions/workflow/status/2992253553/WaterDrop/deploy.yml?style=for-the-badge">
   </a>
 
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">
-      <img alt="code style" class="no-zoom" src="https://img.shields.io/github/license/dunwu/waterdrop?style=for-the-badge">
+      <img alt="code style" class="no-zoom" src="https://img.shields.io/github/license/2992253553/WaterDrop?style=for-the-badge">
   </a>
 
 </p>
@@ -66,8 +66,8 @@ footer: CC-BY-SA-4.0 Licensed | Copyright © 2015-Now 钝悟
 
 > 💧 dunwu.github.io 是个人的技术文档归档仓库。
 >
-> - 🔁 项目同步维护：[Github](https://github.com/dunwu/waterdrop/)
-> - 📖 电子书阅读：[Github Pages](https://dunwu.github.io/waterdrop/)
+> - 🔁 项目同步维护：[Github](https://github.com/2992253553/WaterDrop/)
+> - 📖 电子书阅读：[Github Pages](https://2992253553.github.io/WaterDrop/)
 
 ## Java
 
